@@ -3,6 +3,16 @@ entries:
   helm-template-001:
   - apiVersion: v2
     appVersion: 1.16.0
+    created: "2025-12-30T17:54:05.56999057Z"
+    description: A Helm chart for Kubernetes
+    digest: e4feafac10366cec6b79f0eb79985af0ae45e53d2f077be886b8ac06b63606af
+    name: helm-template-001
+    type: application
+    urls:
+    - https://github.com/code360Pro/helm-template-001/releases/download/helm-template-001-0.1.4/helm-template-001-0.1.4.tgz
+    version: 0.1.4
+  - apiVersion: v2
+    appVersion: 1.16.0
     created: "2025-12-28T19:25:50.388801995Z"
     description: A Helm chart for Kubernetes
     digest: ae930eee0fad070e63234ae5b256e7548bf2e9e478a7d4f07130a3c42942c0ad
@@ -21,4 +31,4 @@ entries:
     urls:
     - https://github.com/code360Pro/helm-template-001/releases/download/helm-template-001-0.1.1/helm-template-001-0.1.1.tgz
     version: 0.1.1
-generated: "2025-12-28T19:25:50.388813977Z"
+generated: "2025-12-30T17:54:05.570007011Z"
